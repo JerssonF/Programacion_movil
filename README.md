@@ -8,3 +8,7 @@
 
 - [Actividad 1](Actividad_1/C1-A2_Tendencia_emergente_tecnologia_movil)
 - [Parcial I Corte](PArcial_I_Corte/moviles-cam-corte-1-9022224105)
+
+## III Corte
+
+- [Atividad 1](programacion-movil-c3-q2/README.md)

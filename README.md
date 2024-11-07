@@ -11,4 +11,4 @@
 
 ## III Corte
 
-- [Atividad 1](programacion-movil-c3-q2)
+- [Atividad 1](programacion-movil-c3-q2/ComponentesPrimera)
